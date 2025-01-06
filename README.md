@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Antho
 
 <p align="center">
 	<a target="_blank" href="https://github.com/0xAntho"><img src="https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=Github&logoColor=black"></img></a>
@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=0xAntho&show_icons=true&theme=transparent" alt="dereknguyen269" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=0xAntho&show_icons=true&theme=transparent" alt="0xAntho" align="right" />
 
 
 - :house: I'm living in Paris, France.
