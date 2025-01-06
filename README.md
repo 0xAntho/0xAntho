@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+<p align="center">
+	<a href="https://github.com/0xAntho"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://x.com/0xAntho94"><img src="imgs/twitter.svg" alt="Twitter"></a>
+</p>
+
+C# dev @ [CACIB](https://www.ca-cib.com/en)
+
+![0xAntho's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xAntho&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <!--
 **0xAntho/0xAntho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
