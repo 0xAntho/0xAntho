@@ -3,7 +3,6 @@
 <p align="center">
 	<a target="_blank" href="https://github.com/0xAntho"><img src="https://img.shields.io/badge/-Github-171515?style=for-the-badge&logo=Github&logoColor=black"></img></a>
 	<a target="_blank" href="https://x.com/0xAntho94"><img src="https://img.shields.io/badge/-Twitter-44bbfa?style=for-the-badge&logo=X&logoColor=black"></img></a>
-	<a target="_blank" href="https://t.me/thlJr"><img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=black"></img></a>
 </p>
 
 <br>
